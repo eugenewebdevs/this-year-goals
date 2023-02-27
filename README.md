@@ -20,7 +20,7 @@ Currently adding some volunteer people could make Eugene Web Devs a better exper
 
 ### Meet Ups Core Goals
 
-- A monthly presentation and socializing event except for November and December.
+- A monthly presentation and socializing event except for November and December. https://antonioortegajr.notion.site/644e8b73ad0841f797e7899887005554?v=b6733b58c55c4fd893b6704d36971c82
 - At least 1 workshop.
 - Always free
 
