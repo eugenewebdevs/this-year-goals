@@ -13,9 +13,7 @@ This is mostly just thoughts and this document is subject to change at anytime.
 
 Currently adding some volunteer people could make Eugene Web Devs a better experience.
 
-- AV. Understanding the technical needs of venues to both present and live stream well.
-- Video editing. Small edits to youtube stream videos to cut out the intros and probably the Q and A
-- Resource prep. Capturing the links in presentations and making sure there is a doc in the archive repo.
+- Locations
 
 
 ### Meet Ups Core Goals
