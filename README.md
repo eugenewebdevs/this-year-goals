@@ -1,22 +1,22 @@
 # This Year Goals
 
 ## About
-This is a documentOverall objectives for the current year. We may or may not hit all the goals.
+This is a document about the overall objectives for the current year. We may or may not hit all the goals.
 
-Always keep in mind there is nobody making money off this meet up so any volunteering is appreciated.
+Always keep in mind there is nobody making money off any of this so any volunteering is appreciated.
 
 This is mostly just thoughts and this document is subject to change at anytime.
 
 ## Eugene Web Devs
 
-### Help?
-
-Currently adding some volunteer people could make Eugene Web Devs a better experience.
-
-- Locations
+Currently doing monthly workshop style meet ups. This are for anyone looking to carve a few hours out to update projects, work on carrier growth or even jsut network.
 
 
-### Meet Ups Core Goals
+## Locations
+- New Tons on 13th
+
+
+### Presentation Meet Ups Core Goals
 
 - A monthly presentation and socializing event except for November and December. https://antonioortegajr.notion.site/644e8b73ad0841f797e7899887005554?v=b6733b58c55c4fd893b6704d36971c82
 - At least 1 workshop.
